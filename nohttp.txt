@@ -44,8 +44,6 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -74,11 +72,11 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.cynma.tv:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -86,11 +84,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.ducks.party:1984/announce
-
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
