@@ -38,8 +38,6 @@ https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.bug38.com:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -83,8 +81,6 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
