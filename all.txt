@@ -30,7 +30,7 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
+http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -39,6 +39,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -65,8 +67,6 @@ https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -186,6 +186,8 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -211,8 +213,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
