@@ -32,8 +32,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -52,6 +50,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -66,17 +66,23 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://ht.therarbg.to:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.adgk.net:443/announce
 
 https://tracker.bug38.com:443/announce
 
