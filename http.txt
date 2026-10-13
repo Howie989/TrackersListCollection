@@ -30,8 +30,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -82,7 +80,7 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
-https://tracker.adgk.net:443/announce
+https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
