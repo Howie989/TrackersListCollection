@@ -62,8 +62,6 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://gargoyleperch.de:443/announce
-
 https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
