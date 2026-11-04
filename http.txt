@@ -10,6 +10,10 @@ http://207.241.231.226:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt1.archive.org:6969/announce
+
+http://bt2.archive.org:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.cl:1337/announce
@@ -22,11 +26,15 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -37,6 +45,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -50,7 +60,11 @@ http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
 
+https://1.tracker.eu.org:443/announce
+
 https://1337.abcvg.info:443/announce
+
+https://gargoyleperch.de:443/announce
 
 https://ht.therarbg.to:443/announce
 
@@ -72,9 +86,15 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.midnightprogrammer.net:443/announce
+
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
+
+https://tracker.qingwapt.org:443/announce
+
+https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
