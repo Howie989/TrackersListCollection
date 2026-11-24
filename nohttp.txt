@@ -48,8 +48,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -102,8 +100,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -127,8 +123,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.sela.st:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
