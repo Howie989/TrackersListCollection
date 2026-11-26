@@ -26,8 +26,6 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -70,6 +68,8 @@ https://1337.abcvg.info:443/announce
 
 https://ht.therarbg.to:443/announce
 
+https://lattice.peerrelay.workers.dev:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
@@ -78,7 +78,7 @@ https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
+https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -132,6 +132,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://hidden.torrentonline.cc:42069/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -156,8 +158,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -167,6 +167,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 
 udp://stairs.lat:6969/announce
+
+udp://su-data.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -183,8 +185,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
-
-udp://tracker.23794.top:6969/announce
 
 udp://tracker.alt.cx:6969/announce
 
@@ -241,6 +241,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
