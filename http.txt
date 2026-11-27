@@ -14,8 +14,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.cl:1337/announce
 
-http://opentracker.lain.moscow:6969/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -67,8 +65,6 @@ https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 
 https://ht.therarbg.to:443/announce
-
-https://lattice.peerrelay.workers.dev:443/announce
 
 https://open.ftorrent.com:443/announce
 
